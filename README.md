@@ -1,6 +1,6 @@
 # IGWsfSC
 
-(Induced Gravitational Waves by a Crossover)
+(Induced Gravitational Waves from a Smooth Crossover)
 
 Julia code for the computation of the Induced Gravitational Waves caused by the presence of a crossover beyond the Standard Model. 
 Author: Albert Escriva
