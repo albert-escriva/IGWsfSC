@@ -3,7 +3,7 @@
 (Induced Gravitational Waves from a Smooth Crossover)
 
 Julia code for the computation of the Induced Gravitational Waves caused by the presence of a crossover beyond the Standard Model. 
-Author: Albert Escriva
+Author: Albert Escrivà
 
 The code presented here corresponds to the implementation used in the research study detailed in:
 
