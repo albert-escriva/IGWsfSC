@@ -6,6 +6,7 @@ Julia code for the computation of the Induced Gravitational Waves caused by the 
 Author: Albert Escriva
 
 The code presented here corresponds to the implementation used in the research study detailed in:
+
 A. Escrivà, Y. Tada, and Chul-Moon Yoo, (ArXiv:2311.17760)
 
 
