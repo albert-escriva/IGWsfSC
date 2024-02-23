@@ -4,10 +4,10 @@
 # Numerical code written in "Julia" languaje for the numerical computation of the Induced Gravitational Waves in the presence of 
 # Crosovers beyond Standard Model.
 # Numerical code written by Albert Escrivà , to obtain some of the results of Arxiv:2311.17760 (see Fig.4 and appendix-I for details)
-# In case of using the code or taking profit, please consider to cite this github repostory and Arxiv:2311.17760.
+# In case of using the code or taking profit, please consider to cite this github repository and Arxiv:2311.17760.
 # If you have questions, please send a message to Albert Escriva -- // escriva.manas.albert.y0@a.mail.nagoya-u.ac.jp // berto3493@gmail.com //
 # See the notes pdf file for some more extra details and 
-# check Arxiv:2311.17760  and references rethein for details about the formalism and numerical procedure.
+# check Arxiv:2311.17760  and corresponding references for details about the formalism and numerical procedure.
 
 ########################################
 ##We import the necessary numerical packages. The user needs to install all the packages before can proceed with the calculation
